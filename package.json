@@ -1,0 +1,22 @@
+{
+  "name": "ModuleExclamation",
+  "version": "0.0.1",
+  "description": "This module will return an exclamation point (!).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mborman/ModuleExclamation.git"
+  },
+  "author": "Mike Borman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mborman/ModuleExclamation/issues"
+  },
+  "homepage": "https://github.com/mborman/ModuleExclamation",
+  "dependencies": {
+    "amdefine": "^0.1.1"
+  }
+}
